@@ -1,0 +1,16 @@
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\bin\Debug\Firebase.exe.config
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\bin\Debug\Firebase.exe
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\bin\Debug\Firebase.pdb
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\bin\Debug\FireSharp.dll
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\bin\Debug\RestSharp.dll
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\bin\Debug\RestSharp.xml
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\obj\Debug\Firebase.csprojAssemblyReference.cache
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\obj\Debug\Firebase.Form1.resources
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\obj\Debug\Firebase.Properties.Resources.resources
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\obj\Debug\Firebase.csproj.GenerateResource.cache
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\obj\Debug\Firebase.csproj.CopyComplete
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\obj\Debug\Firebase.exe
+C:\Users\BDGI\Desktop\2020_IOT\ornek24_c#_firebase\Firebase\Firebase\obj\Debug\Firebase.pdb
